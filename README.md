@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Priyanshu2002234
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning python
 
